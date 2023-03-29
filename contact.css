@@ -1,0 +1,83 @@
+body{
+    background-image: url("photo_2023-03-28_12-17-31.jpg");
+}
+.name{
+    position: absolute;
+    left: 480px;
+    top: -50px;
+    color: brown;
+    font-size: 40px;
+    box-shadow: 10px 10px 10px blue;
+    border: 5px solid blue;
+}
+.name:hover{
+    color: blue;
+    
+}
+.k{
+    position: absolute;
+    top: 180px;
+    left: 20px;
+    color: tomato;
+}
+.k:hover{
+  
+    color: beige;
+    border-radius: 15px;
+
+}
+.t{
+    position: absolute;
+    bottom: 420px;
+    left: 100px;
+    font-size: 50px;
+    border-radius: 15px;
+}
+.e{
+    position: absolute;
+    bottom: 340px;
+    left: 100px;
+    font-size: 50px;
+    border-radius: 15px;
+}
+.b{
+    position: absolute;
+    bottom: 255px;
+    left: 100px;
+    font-size: 30px; 
+    border-radius: 15px;
+}
+.b:hover{
+    background-color:blue;
+}
+
+.f{
+    position: absolute;
+    bottom: 180px;
+    left: 100px;
+    font-size: 10px; 
+
+}
+.T{
+    position: absolute;
+    bottom: 180px;
+    left: 180px;
+    font-size: 10px; 
+  
+}
+.G{
+    position: absolute;
+    bottom: 180px;
+    left: 250px;
+    font-size: 10px; 
+   
+}
+.L{
+    position: absolute;
+    bottom: 180px;
+    left: 310px;
+    font-size: 10px; 
+    
+}
+
+    

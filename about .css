@@ -1,0 +1,42 @@
+body{
+     background-image: url("dd.jpg");
+}
+.myphoto{
+    position: absolute;
+    background-image: url("cc.jpg");
+    left: 30px;
+    bottom: 100px;
+    top: 50px;
+   
+    border-radius: 25px;
+
+    /*filter: grayscale(100%);*/
+    overflow: hidden;
+    border: #ede8e8;
+    border-radius: 20px;
+
+    box-shadow: 15px 15px 10px rgb(34, 0, 255);
+  
+}
+.about{
+   border: 5px solid rgb(34, 0, 255);
+    box-shadow:10px 10px 10px rgb(34, 0, 255) ;
+    color: #ede8e8;
+    position: absolute;
+   /* border: 5px solid red;*/
+    left: 770px;
+    height: 200px;
+    top: 15px;
+    bottom: 500px;
+}
+.t1{
+  
+     color:red;
+     font-size: 20px;
+     top: 20px;
+
+}
+
+.t3{
+    box-shadow: 10px 10px 5px rgb(34, 0, 255);
+}
